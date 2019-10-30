@@ -9,6 +9,8 @@ Below is the list of MOOCS that I have completed.
 6. [Data Science Math Skills](https://www.coursera.org/account/accomplishments/records/228GTD99C8XK)
 7. [Command Line Tools for Genomic Data Science](https://www.coursera.org/account/accomplishments/records/S53TEA9YN7X3)
 8. [Introduction to Statistics & Data Analysis in Public Health](https://www.coursera.org/account/accomplishments/records/NP85Q6R2P638)
+9. Data Science in Stratified Healthcare and Precision Medicine
+10. Deep Learning for Business
 9. [Introduction to Genomic Technologies](https://www.coursera.org/account/accomplishments/records/EKVJ63L28R8N)
 10. [Genomic Data Science with Galaxy](https://www.coursera.org/account/accomplishments/records/CEPKS6TX3KFW)
 11. [Principles of fMRI 1](https://www.coursera.org/account/accomplishments/records/2KVMVFKHSRRW)
