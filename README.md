@@ -11,7 +11,15 @@ Below is the list of MOOCS that I have completed.
 8. [Introduction to Statistics & Data Analysis in Public Health](https://www.coursera.org/account/accomplishments/records/NP85Q6R2P638)
 9. Data Science in Stratified Healthcare and Precision Medicine
 10. Deep Learning for Business
-9. [Introduction to Genomic Technologies](https://www.coursera.org/account/accomplishments/records/EKVJ63L28R8N)
+10. [Introduction to Genomic Technologies](https://www.coursera.org/account/accomplishments/records/EKVJ63L28R8N)
+11. [Genomic Technologies in Clinical Diagnostics: Next Generation Sequencing](https://www.futurelearn.com/certificates/go6xyn8)
+12. [Cancer in the 21st Century: the Genomic Revolution](https://www.futurelearn.com/certificates/jglmpdp)
+13. [Exploring Cancer Medicines](https://www.futurelearn.com/certificates/1qfrl4z)
+14. [Genomic Medicine: Transforming Patient Care in Diabetes](https://www.futurelearn.com/certificates/i1v6ppm)
+15. [What is Genetic Counselling?](https://www.futurelearn.com/certificates/9g07ehq)
+16. [Bacterial Genomes: Disease Outbreaks and Antimicrobial Resistance](https://www.futurelearn.com/certificates/lcnnh3u)
+17. [Bacterial Genomes: From DNA to Protein Function Using Bioinformatics](https://www.futurelearn.com/certificates/rjxjjqh)
+18. [The Genomics Era: the Future of Genetics in Medicine](https://www.futurelearn.com/courses/the-genomics-era/6/certificate-of-achievement)
 10. [Genomic Data Science with Galaxy](https://www.coursera.org/account/accomplishments/records/CEPKS6TX3KFW)
 11. [Principles of fMRI 1](https://www.coursera.org/account/accomplishments/records/2KVMVFKHSRRW)
 12. [Principles of fMRI 2](https://www.coursera.org/account/accomplishments/records/U7HFWDGR5CCF)
