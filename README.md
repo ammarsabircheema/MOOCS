@@ -9,6 +9,8 @@ Below is the list of MOOCS that I have completed.
 6. [Data Science Math Skills](https://www.coursera.org/account/accomplishments/records/228GTD99C8XK)
 7. [Command Line Tools for Genomic Data Science](https://www.coursera.org/account/accomplishments/records/S53TEA9YN7X3)
 8. [Introduction to Statistics & Data Analysis in Public Health](https://www.coursera.org/account/accomplishments/records/NP85Q6R2P638)
+9. [Python 101](https://courses.cognitiveclass.ai/certificates/user/781363/course/course-v1:BigDataUniversity+PY0101EN+2016)
+10. [Data Analysis with Python](https://courses.cognitiveclass.ai/certificates/user/781363/course/course-v1:CognitiveClass+DA0101EN+2017)
 9. Data Science in Stratified Healthcare and Precision Medicine
 10. Deep Learning for Business
 10. [Introduction to Genomic Technologies](https://www.coursera.org/account/accomplishments/records/EKVJ63L28R8N)
